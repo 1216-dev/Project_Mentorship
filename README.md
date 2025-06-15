@@ -12,6 +12,7 @@ Developed as part of the Smart India Hackathon, our solution addresses real-worl
 ---
 ![Alt Text](App_look.png)
 
+Link to project: https://v0-frontend-rosy-nu.vercel.app/
 ## 🧠 Features
 
 - ✅ **Startup Verification System**  
