@@ -10,7 +10,7 @@ StartupCatalyst is a full-stack, AI-powered mentorship and resource platform tai
 Developed as part of the Smart India Hackathon, our solution addresses real-world problems faced by startups, especially those in Tier-2 and Tier-3 cities.
 
 ---
-![Alt Text](relative/path/to/image.png)
+![Alt Text](App_look.png)
 
 ## 🧠 Features
 
